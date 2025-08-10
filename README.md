@@ -1,3 +1,4 @@
 # AmbikBayau
 
-A new Flutter project.
+Graphical User Interface (GUI) for the AmbikBayau(GrabFood) project.
+
